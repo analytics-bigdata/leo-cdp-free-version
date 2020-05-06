@@ -1,4 +1,4 @@
-
+```mermaid
 sequenceDiagram
     Touchpoint->>+Observer: loadObserverCode
     Observer-->>Touchpoint: observerIsReady
@@ -38,4 +38,4 @@ sequenceDiagram
     EventDataService-->>Analytics360Service:listOfEvents
     Analytics360Service->>+SessionDataService:query(visitorId|profileId)
     SessionDataService-->>Analytics360Service:listOfContextSessions
-
+```
