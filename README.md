@@ -1,8 +1,16 @@
-# Leo - Unified Experience Platform 
+# LEO CDP free version (maximum 5000 profiles)
+## Journey Map Data Hub
+* Media Channel Management
+* Marketing Metrics Management
+* Data Observer Management
 
-The platform is designed with microservice architecture in mind.
-There 3 core systems in Leo
+## Unified Marketing Hub
+* Unified Marketing Dashboard
+* Audience Profile Management
+* Audience Segment Management
+* Audience Data Synchronization
+* Products & Services Meta Management
 
-* Leo CMS to build Content Hub
-* Leo CDP to build Data Hub and Audience Hub
-* Leo A.I framework to build A.I Hub
+## Customer Activation Hub
+* Email Marketing Campaign Management
+* SMS Marketing Campaign Management
