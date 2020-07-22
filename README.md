@@ -8,7 +8,7 @@
 ## Core features
 ### Customer Journey Hub
 * Media Channel Management
-* Marketing Metrics Management
+* Event Metrics Management
 * Data Observer Management
 
 ### Unified Marketing Hub
